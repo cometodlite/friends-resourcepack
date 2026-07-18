@@ -3,5 +3,15 @@
     "sounds": [
       "friends:records/luna_rabbits_solo"
     ]
+  },
+  "music_disc.falling_star": {
+    "sounds": [
+      "friends:records/falling_star"
+    ]
+  },
+  "music_disc.moon_halo": {
+    "sounds": [
+      "friends:records/moon_halo"
+    ]
   }
 }
