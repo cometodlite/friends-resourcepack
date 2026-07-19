@@ -13,5 +13,50 @@
     "sounds": [
       "friends:records/moon_halo"
     ]
+  },
+  "music_disc.milky_road": {
+    "sounds": [
+      "friends:records/milky_road"
+    ]
+  },
+  "music_disc.tormented": {
+    "sounds": [
+      "friends:records/tormented"
+    ]
+  },
+  "music_disc.inevitability": {
+    "sounds": [
+      "friends:records/inevitability"
+    ]
+  },
+  "music_disc.cuty_cuty": {
+    "sounds": [
+      "friends:records/cuty_cuty"
+    ]
+  },
+  "music_disc.heaven": {
+    "sounds": [
+      "friends:records/heaven"
+    ]
+  },
+  "music_disc.midnight_memories": {
+    "sounds": [
+      "friends:records/midnight_memories"
+    ]
+  },
+  "music_disc.cafe_latte": {
+    "sounds": [
+      "friends:records/cafe_latte"
+    ]
+  },
+  "music_disc.yume_ni_mukatte": {
+    "sounds": [
+      "friends:records/yume_ni_mukatte"
+    ]
+  },
+  "music_disc.ano_koro": {
+    "sounds": [
+      "friends:records/ano_koro"
+    ]
   }
 }
