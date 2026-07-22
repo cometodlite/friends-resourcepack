@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "friends:block/crystal_core_ore",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "friends:block/crystal_core_ore_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "friends:block/crystal_core_ore",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "friends:block/crystal_core_ore_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "friends:block/crystal_core_ore"
+      },
+      {
+        "model": "friends:block/crystal_core_ore_mirrored"
+      },
+      {
+        "model": "friends:block/crystal_core_ore",
+        "y": 180
+      },
+      {
+        "model": "friends:block/crystal_core_ore_mirrored",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "friends:block/crystal_core_ore",
+        "x": 90
+      },
+      {
+        "model": "friends:block/crystal_core_ore_mirrored",
+        "x": 90
+      },
+      {
+        "model": "friends:block/crystal_core_ore",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "friends:block/crystal_core_ore_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

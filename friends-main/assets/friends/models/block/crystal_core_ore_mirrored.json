@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_mirrored",
+  "textures": {
+    "end": "friends:block/crystal_core_ore_top",
+    "side": "friends:block/crystal_core_ore"
+  }
+}
