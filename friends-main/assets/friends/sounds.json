@@ -58,5 +58,10 @@
     "sounds": [
       "friends:records/ano_koro"
     ]
+  },
+  "music_disc.artemis": {
+    "sounds": [
+      "friends:records/artemis"
+    ]
   }
 }
