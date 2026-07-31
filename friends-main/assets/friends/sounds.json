@@ -63,5 +63,10 @@
     "sounds": [
       "friends:records/artemis"
     ]
+  },
+  "music_disc.purity_reigns": {
+    "sounds": [
+      "friends:records/purity_reigns"
+    ]
   }
 }
